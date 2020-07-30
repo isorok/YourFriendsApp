@@ -1,0 +1,17 @@
+.users-list {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  width: 90%;
+  max-width: 50rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.users-list__search{
+  margin: 0.5rem auto;
+  display: flex;
+  justify-content: center;
+  width: 35%;
+  height: 1.5rem;
+}
